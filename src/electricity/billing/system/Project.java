@@ -202,7 +202,7 @@ class Project extends JFrame implements ActionListener{
         
         setFont(new Font("Senserif",Font.BOLD,16));
         setLayout(new FlowLayout());
-        setVisible(false);
+//        setVisible(false);
         
         
     }
@@ -211,7 +211,8 @@ class Project extends JFrame implements ActionListener{
         
         String msg = ae.getActionCommand();
         if(msg.equals("Customer Details")){
-            new customer_details().setVisible(true);  
+            new customer_details().setVisible(true); 
+//            setVisible(false);
             
         }else if(msg.equals("New Customer")){
             new new_customer().setVisible(true);
