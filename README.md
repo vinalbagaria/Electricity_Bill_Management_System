@@ -5,7 +5,7 @@ For running the system,
 You need to have a Netbeans IDE or Eclipse IDE and JDK latest version installed.
 
 When all the requirements  get installed, run the Java Desktop application by going to 
->src/electricity/billing/system/ 
+```src/electricity/billing/system/```
 and  running the command 
 
 >javac Splash.java
