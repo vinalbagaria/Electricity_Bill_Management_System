@@ -1,6 +1,13 @@
 # Electricity_Bill_Management_System
 A role based desktop application for managing the amount of units consumed by the customers and generating the monthly electricity bill.
 
+For running the system,
+You need to have a Netbeans IDE or Eclipse IDE and JDK latest version installed.
+
+When all the requirements  get installed, run the Java Desktop application by going to >src/electricity/billing/system/ and  running the command 
+>javac Splash.java
+>java Splash
+
 The Splash screen flashes on opening the application
 
 ![Alt text](src/screenshots/splashScreen.jpg?raw=true "Splash")
