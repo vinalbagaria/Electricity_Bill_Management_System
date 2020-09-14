@@ -8,6 +8,7 @@ When all the requirements  get installed, run the Java Desktop application by go
 >javac Splash.java
 >java Splash
 
+
 The Splash screen flashes on opening the application
 
 ![Alt text](src/screenshots/splashScreen.jpg?raw=true "Splash")
